@@ -1,0 +1,18 @@
+{
+  "name": "portfoliowebsite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "homepage": "https://charanjeet1997.github.io/",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",git
+    "deploy": "node deploy.js"
+
+  },
+  "devDependencies": {
+    "vite": "^7.2.2",
+    "vite-plugin-gh-pages": "^1.0.1"
+  },
+}
